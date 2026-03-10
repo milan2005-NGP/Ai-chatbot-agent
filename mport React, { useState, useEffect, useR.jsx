@@ -1,4 +1,4 @@
-mport React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { Send, Trash2, Download, Upload, Zap, Brain, Sparkles, MessageSquare, Settings, Moon, Sun, Copy, Check } from 'lucide-react';
 
 const AIChatbotAgent = () => {
